@@ -1,8 +1,8 @@
-# hello this is my analysis code
+# hello this is my universe
 
 ## Version information  
-platform. x86_64-conda-linux-gnu. 
-arch. x86_64. 
+platform : x86_64-conda-linux-gnu  
+arch. x86_64   
 os. linux-gnu
 system. x86_64, linux-gnu
 language. R
